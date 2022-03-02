@@ -1,0 +1,22 @@
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\bin\Debug\Laba_1.exe.config
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\bin\Debug\Laba_1.exe
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\bin\Debug\Laba_1.pdb
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.AssemblyReference.cache
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.SuggestedBindingRedirects.cache
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.Form1.resources
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.Properties.Resources.resources
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.GenerateResource.cache
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.exe
+E:\ООП\Лабы 2 сем\Laba_1\Laba_1\obj\Debug\Laba_1.pdb
+D:\Laba_1\Laba_1\bin\Debug\Laba_1.exe.config
+D:\Laba_1\Laba_1\bin\Debug\Laba_1.exe
+D:\Laba_1\Laba_1\bin\Debug\Laba_1.pdb
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.AssemblyReference.cache
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.SuggestedBindingRedirects.cache
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.Form1.resources
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.Properties.Resources.resources
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.GenerateResource.cache
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.exe
+D:\Laba_1\Laba_1\obj\Debug\Laba_1.pdb
